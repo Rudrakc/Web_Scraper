@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ## Usage
 
 1. Clone or download the repository.
-2. Install the required libraries mentioned above using pip install -r requirements.txt.
+2. Install the required libraries mentioned above using `pip install -r requirements.txt`
 3. Run the `web_scraper.py` script.
 4. Enter the URLs of the Flipkart and Amazon product pages when prompted.
 5. The script will scrape the price and review information from both websites and display it in a tabular format.
